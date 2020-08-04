@@ -1,5 +1,3 @@
-# Python-for-Data-Science-Documentation
-
 # **Welcome to the _Python-for-Data-Science-Documentation_**
 ![](https://www.python.org/static/img/python-logo@2x.png)
 
