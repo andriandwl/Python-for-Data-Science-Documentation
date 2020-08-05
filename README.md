@@ -5,5 +5,5 @@ Welcome! Are you completely new to programming? If not then I presume you will b
 
 In this repository Python required for Data Science is documented and still under construction. It's helpful to beginners. All the documentation (Jupyter Notebooks) is completed in 5 Modules. If you found any bug or mistake in the repository inform me.
 
-## 📌 For more details and repository development progress information visit Wiki page of this repository.
+## 📌 For more details and repository development progress information visit [Wiki] ![](https://github.com/pranavkhatale/Python-for-Data-Science-Documentation/wiki) page of this repository.
 ### 📌 If you want to view quizes based on this repository, go to "Python-for-Data-Science-Quiz" repository.
